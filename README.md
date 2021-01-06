@@ -228,6 +228,7 @@ Supported by / 支持者:
 * Jiang Siyuan, Hunan University
 * Jiandong Shi, Developer, Nanjing, China
 * Jianzhao Liu, Front-End Engineer, Shanghai.China
+* Jianqiao Mao, Student, The Ohio State University, Shanghai, China
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
